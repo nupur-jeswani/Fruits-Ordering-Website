@@ -1,0 +1,27 @@
+{
+    "name": "Fruit Ordering PWA",
+    "short_name": "Fruit Ordering PWA",
+    "start_url": "/",
+    "scope": ".",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FF6600",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/slider_img_144x144.png",
+            "sizes": "144x144",
+            "type": "image/jpeg",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "images/slider_img_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+            
+        }
+    ]
+
+
+}
